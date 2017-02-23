@@ -14,4 +14,6 @@ Files
 
 Try It
 ====
-Try it here:
+1. clone this project
+2. cd into the project folder, start a webserver, such as `python -m SimpleHTTPServer`
+3. try 'http://localhost:8000/index.html', watch your pixel helper and the webpage
